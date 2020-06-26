@@ -1,5 +1,7 @@
 #Name : C-Pirate
+
 #Author : creepypirate
+
 #This program helps in automating the compilation process without the need of an IDE.
 -To run this app you should have GTK3+
 -To install it open the terminal and run the following command:
