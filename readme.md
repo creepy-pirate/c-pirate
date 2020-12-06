@@ -10,7 +10,7 @@ sudo apt-get install libgtk-3-dev
 ```
 
 ## Give permissions
-Use +x or 777
+Make it executable
 
 ```bash
 chmod +x run.sh
