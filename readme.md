@@ -1,18 +1,34 @@
-#Name : C-Pirate
+# C-Pirate
 
-#Author : creepypirate
+Small IDE which combines the simplification of using a terminal as an editor and using buttons to compile and run.
 
-#This program helps in automating the compilation process without the need of an IDE.
--To run this app you should have GTK3+
--To install it open the terminal and run the following command:
+## Installation
+To use this you need GTK3+
+
+```bash
 sudo apt-get install libgtk-3-dev
--After installing GTK3+
--Give permissions to the script by typing the following command:
+```
+
+## Give permissions
+To use this you need GTK3+
+
+```bash
 chmod +x run.sh
--Now run the script which will in turn run the program using the following command:
+```
+
+
+## Start
+To run the script
+
+```bash
 ./run.sh
+```
 
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-#Instead of making a make file I have automated the compilation by using a shell Script.
+Please make sure to update tests as appropriate.
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
