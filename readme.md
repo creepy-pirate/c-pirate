@@ -10,7 +10,7 @@ sudo apt-get install libgtk-3-dev
 ```
 
 ## Give permissions
-To use this you need GTK3+
+Use +x or 777
 
 ```bash
 chmod +x run.sh
