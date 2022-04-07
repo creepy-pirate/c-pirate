@@ -2,6 +2,9 @@
 
 Small IDE which combines the simplification of using a terminal as an editor and using buttons to compile and run.
 
+# Working
+![Alt Text](https://media.giphy.com/media/PO5fMMKlXXWQ0EtaEa/giphy.gif)
+
 ## Installation
 To use this you need GTK3+
 
